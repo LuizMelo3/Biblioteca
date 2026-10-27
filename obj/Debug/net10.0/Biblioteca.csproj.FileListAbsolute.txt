@@ -154,7 +154,6 @@ C:\Users\luizg\OneDrive\Desktop\c#-visual-studio\Biblioteca\Biblioteca\obj\Debug
 C:\Users\luizg\OneDrive\Desktop\c#-visual-studio\Biblioteca\Biblioteca\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\luizg\OneDrive\Desktop\c#-visual-studio\Biblioteca\Biblioteca\obj\Debug\net10.0\scopedcss\bundle\Biblioteca.styles.css
 C:\Users\luizg\OneDrive\Desktop\c#-visual-studio\Biblioteca\Biblioteca\obj\Debug\net10.0\scopedcss\projectbundle\Biblioteca.bundle.scp.css
-C:\Users\luizg\OneDrive\Desktop\c#-visual-studio\Biblioteca\Biblioteca\obj\Debug\net10.0\compressed\conv0cg0pa-{0}-b9sayid5wm-b9sayid5wm.gz
 C:\Users\luizg\OneDrive\Desktop\c#-visual-studio\Biblioteca\Biblioteca\obj\Debug\net10.0\compressed\acm82m7780-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\Users\luizg\OneDrive\Desktop\c#-visual-studio\Biblioteca\Biblioteca\obj\Debug\net10.0\compressed\tomr9z7ae4-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\Users\luizg\OneDrive\Desktop\c#-visual-studio\Biblioteca\Biblioteca\obj\Debug\net10.0\compressed\i0jvgox69n-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -232,3 +231,5 @@ C:\Users\luizg\OneDrive\Desktop\c#-visual-studio\Biblioteca\Biblioteca\obj\Debug
 C:\Users\luizg\OneDrive\Desktop\c#-visual-studio\Biblioteca\Biblioteca\obj\Debug\net10.0\ref\Biblioteca.dll
 C:\Users\luizg\OneDrive\Desktop\c#-visual-studio\Biblioteca\Biblioteca\bin\Debug\net10.0\System.Security.Cryptography.Pkcs.dll
 C:\Users\luizg\OneDrive\Desktop\c#-visual-studio\Biblioteca\Biblioteca\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\luizg\OneDrive\Desktop\c#-visual-studio\Biblioteca\Biblioteca\obj\Debug\net10.0\Biblioteca.sourcelink.json
+C:\Users\luizg\OneDrive\Desktop\c#-visual-studio\Biblioteca\Biblioteca\obj\Debug\net10.0\compressed\conv0cg0pa-{0}-k9est4tm89-k9est4tm89.gz
